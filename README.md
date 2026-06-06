@@ -32,12 +32,12 @@ Two players (`X` and `O`) take turns dropping discs into a 6x7 grid, aiming to c
    javac ConnectFour.java
    java ConnectFour
 ## Sample game Output
-. . . . . . .
-. . . . . . .
-. . . . . . .
-. . . . . . .
-. . . . . . .
-. . . X O . .
-0 1 2 3 4 5 6
+. . . . . . .\
+. . . . . . .\
+. . . . . . .\
+. . . . . . .\
+. . . . . . .\
+. . . X O . .\
+0 1 2 3 4 5 6\
 Player X wins!
 
